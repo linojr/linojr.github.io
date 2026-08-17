@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Linoj Vijayan.
+title: Linoj Vijayan
 subtitle: Environmental Hydrodynamics | CFD 
 email: linoj.vijay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Linoj Vijayan."
   avatar : "/assets/images/Profile.jpeg"
-  bio    : "Software engineer focused on practical tools, polished systems, and learning in public."
+  bio    : "Hydrodynamics Researcher | Engineer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
