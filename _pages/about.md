@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Lino Jr. I like building things that are useful, clear, and a little bit delightful.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My work sits at the intersection of software, systems thinking, and creative problem-solving. I enjoy making interfaces that feel intentional, writing code that stays maintainable, and exploring how small improvements can compound into better experiences.
+
+I care about learning in public, shipping with purpose, and treating product work as both craft and engineering. This site is a place to share projects, notes, and experiments from that process.
+
+Whether I'm building a new tool, improving a workflow, or refining an idea, I tend to focus on three things:
+
+- practical value over noise
+- thoughtful execution over hype
+- continuous learning through iteration
