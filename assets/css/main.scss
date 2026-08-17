@@ -1,0 +1,62 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'contrast' }}";
+@import "minimal-mistakes";
+
+:root {
+  --primary-color: #0f766e;
+  --primary-color-dark: #115e59;
+  --page-background: #f8fafc;
+  --text-color: #1f2937;
+  --muted-text: #475569;
+}
+
+body {
+  background: var(--page-background);
+  color: var(--text-color);
+}
+
+.masthead {
+  background: linear-gradient(135deg, #0f172a 0%, #134e4a 100%);
+}
+
+.greedy-nav {
+  background: rgba(15, 23, 42, 0.92);
+}
+
+.page__title,
+.archive__item-title a,
+.site-title {
+  color: var(--primary-color-dark);
+}
+
+.site-title {
+  letter-spacing: 0.04em;
+}
+
+.author__urls a,
+.social-icons a,
+.footer-nav a {
+  color: var(--primary-color);
+}
+
+.home-intro {
+  margin: 1.5rem 0 2rem;
+  padding: 1.5rem 1.75rem;
+  border-left: 4px solid var(--primary-color);
+  background: rgba(20, 184, 166, 0.08);
+  border-radius: 0.5rem;
+}
+
+.home-intro .lead {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.page__content p,
+.page__content li {
+  color: var(--muted-text);
+}
