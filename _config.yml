@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Linoj Vijayan."
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile.jpg"
   bio    : "Software engineer focused on practical tools, polished systems, and learning in public."
   links:
     - label: "Website"
