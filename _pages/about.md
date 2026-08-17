@@ -3,14 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I'm Lino Jr. I like building things that are useful, clear, and a little bit delightful.
-
-My work sits at the intersection of software, systems thinking, and creative problem-solving. I enjoy making interfaces that feel intentional, writing code that stays maintainable, and exploring how small improvements can compound into better experiences.
-
-I care about learning in public, shipping with purpose, and treating product work as both craft and engineering. This site is a place to share projects, notes, and experiments from that process.
-
-Whether I'm building a new tool, improving a workflow, or refining an idea, I tend to focus on three things:
-
-- practical value over noise
-- thoughtful execution over hype
-- continuous learning through iteration
+Hi, I'm Linoj Vijayan, a researcher in environmental hydrodynamics. A native of Kozhikode, Kerala, India, I have a B.Tech in Mechanical Engineering and M.Tech in Energy Management from University of Calicut and National Institute of Technology Calicut. I am one of the first to receive the prestigeous National Renewable Energy Fellowship Govt. of India. I received Ph.D. in Civil and Environmental Engineering from FAMU-FSU College of Engineering, Florida where I developed a storm surge forecast framework. I am currently an IT consultant at the Coastal Ecosystem Design Studio, Louisiana State University. My central research theme has always been hydrodynamics modeling. 
