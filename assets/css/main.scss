@@ -14,16 +14,18 @@
 }
 
 body {
-  background: var(--page-background);
+  background: url('/assets/images/Background.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  background-attachment: fixed;
   color: var(--text-color);
 }
 
 .masthead {
-  background: linear-gradient(135deg, #0f172a 0%, #134e4a 100%);
+  background: transparent;
 }
 
 .greedy-nav {
-  background: rgba(15, 23, 42, 0.92);
+  background: transparent;
 }
 
 .page__title,
