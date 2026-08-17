@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lino Jr.
-subtitle: Builder, tinkerer, and curious problem-solver
-email:
+title: Linoj Vijayan.
+subtitle: Environmental Hydrodynamics | CFD 
+email:linoj.vijay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Lino Jr., sharing software projects, engineering notes,
-  and the creative side of building useful things.
+  Personal website of Linoj Vijayan, sharing research and publications
 twitter_username:
 github_username: linojr
-minimal_mistakes_skin: contrast
-search: true
+minimal_mistakes_skin: aqua
+search: False
 
 # Build settings
 markdown: kramdown
@@ -58,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Lino Jr."
+  name   : "Linoj Vijayan."
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software engineer focused on practical tools, polished systems, and learning in public."
   links:
