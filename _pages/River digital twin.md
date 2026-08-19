@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "River Digital Twin Modeling"
-permalink: /research/river-digital-twin-modeling/
+permalink: /research/River digital twin/
 ---
 
 [← Back to Research](/research/)

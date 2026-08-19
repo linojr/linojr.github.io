@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hydrology, Geomorphology, and Nature-Based Solutions"
-permalink: /research/hydrology-geomorphology-nature-based-solutions/
+permalink: /research/Hydrology Geomorphology Nature-based-solutions/
 ---
 
 [← Back to Research](/research/)
