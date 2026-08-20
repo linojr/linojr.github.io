@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Flood Modeling"
-permalink: /research/Flood Modeling/
+permalink: /research/Flood_Modeling/
 ---
 
 [← Back to Research](/research/)
