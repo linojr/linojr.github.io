@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Storm Surge Modeling"
+title: "Flood Modeling"
 permalink: /research/Flood Modeling/
 ---
 
 [← Back to Research](/research/)
 
-Storm surge modeling focuses on understanding and forecasting coastal water-level changes caused by tropical cyclones, atmospheric pressure, and wind. This work supports timely forecasts and better preparation for coastal communities.
+Different wind parametrizations are used to generate cyclonic wind fields on an ADCIRC+SWAN coupled flood forecasting system. Varying SLR scenarios are tested for multiple synthetic and past storms. 
 
 ## 
 
