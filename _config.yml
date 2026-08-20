@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Linoj Vijayan."
   avatar : "/assets/images/Profile.jpeg"
-  bio    : "Hydrodynamics Researcher|Engineer"
+  bio    : "Environmental Hydrodynamics|Ecosystem Engineer" 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
