@@ -6,7 +6,6 @@ permalink: /research/Hydrology_Geomorphology_NBS/
 
 [← Back to Research](/research/)
 
-<span style="font-size: 2.1em;">This theme examines how water moves through landscapes, how rivers and coastlines evolve, and how nature-based solutions can reduce risk while strengthening ecosystem function. It connects hydrologic and geomorphic processes with practical environmental design.</span>
 
 ## Research directions
 
